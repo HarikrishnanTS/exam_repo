@@ -3,5 +3,6 @@ first
 
 "DEFINING GIT"
 
-Git is a version control ,it has distributed and centralized repositories.
+Git is a version control.
+It has distributed and centralized repositories.
 
